@@ -57,6 +57,7 @@ Tool:
 
 ## Acknowledgements
 Thanks to open-source contributors and educational resources that support learning in data analytics. Special mention to:
+
 •	Scikit-learn
 
 •	Weka Documentation
