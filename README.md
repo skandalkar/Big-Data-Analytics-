@@ -52,9 +52,11 @@ Tool:
 
 ## Notes
 •	Datasets used are either generated or from open-source repositories (e.g., Kaggle).
+
 •	The code is commented for clarity and learning purposes.
 
 ## Acknowledgements
 Thanks to open-source contributors and educational resources that support learning in data analytics. Special mention to:
 •	Scikit-learn
+
 •	Weka Documentation
