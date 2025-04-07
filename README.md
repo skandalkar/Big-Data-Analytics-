@@ -31,11 +31,12 @@ This repository includes hands-on practicals covering the following topics:
 •	Running classifiers and visualizing results
 
 ## Tools & Technologies Used
-Tool	Purpose
-Python	Programming language for analytics and modeling
-Jupyter Notebook	Interactive coding and documentation
-Weka	GUI-based machine learning tool for experimentation
-Libraries Used	pandas, numpy, scipy, sklearn, matplotlib, seaborn
+Tool:
+•	Python Programming language for analytics and modeling
+•	Jupyter Notebook   Interactive coding and documentation
+•	Weka    GUI-based machine learning tool for experimentation
+•	Libraries Used pandas, numpy, scipy, sklearn, matplotlib, seaborn
+
 
 ## Getting Started
 1.	Clone this repository:
